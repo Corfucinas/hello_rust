@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 time = "0.1.12"
-regex = "0.1.41"
+regex = "1.5.5"
 rand = { git = "https://github.com/rust-lang-nursery/rand.git" }
