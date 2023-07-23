@@ -7,6 +7,6 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-time = "0.1.12"
+time = "0.2.0"
 regex = "0.1.41"
 rand = { git = "https://github.com/rust-lang-nursery/rand.git" }
